@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['6288214989352','']
+global.premium = ['6288214989352','79203890637']
+global.botname = 'ZxynnBotz'
+global.ownername = 'Ilham Ganteng'
+global.group1 = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx'
+global.group2 = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx'
+global.packname = 'ZxynnBotz'
+global.ytchannel = 'https://youtube.com/c/Hamz9999+'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -71,16 +71,16 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
-        ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    horny: '*nsfw is disabled please ask owner to enable it*',
-    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
-    botAdmin: '*with due respect can you please give bot adminship*',
-    owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
-    group: '*this feature is only for groups okay*',
+    success: '*Done*',
+        ban: '*Kamu Di Band😔 type .owner To request unban okay*',
+    horny: '*Minta Ke owner suruh aktipin Nsfw*',
+    admin: '*Lu Admin?*',
+    botAdmin: '*Jujur Bot Belum Admin*',
+    owner: '*Lu Owner?!*',
+    group: '*Ke Grup dulu kita*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*Tunggu Ga lama Bor*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
