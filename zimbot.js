@@ -5480,11 +5480,11 @@ case 'fbdl': case 'fb': case 'facebook': case 'pesbuk': {
 
                     txt += `*⬤DESCRIPTION :* ${data.description}\n`
 
-                    txt += `*⬤ID :* ZIM BOT INC\n`
+                    txt += `*⬤ID :* ZxynnBotz\n`
 
                     txt += `*⬤URL :* ${text}\n\n`
 
-                    txt += `*ZIM BOT INC*`                
+                    txt += `*ZxynnBotz*`                
 
                 buf = await getBuffer(data.thumbnail)    
 
@@ -5536,7 +5536,7 @@ case 'fb6': {
                     txt += `*:⬤TYPE* ${data.medias[1].extension}\n`
                     txt += `*⬤SIZE :* ${data.medias[1].formattedSize}\n`
                     txt += `*⬤URL :* ${data.url}\n\n`
-                    txt += `*ZIM BOT INC*`
+                    txt += `*ZxynnBotz*`
                 buf = await getBuffer(data.thumbnail)    
                 ZimBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${txt}` }, { quoted: m })              
                 ZimBotInc.sendMessage(m.chat, { video: { url: data.medias[1].url }, jpegThumbnail:buf, caption: `*⬤ Quality :* ${data.medias[1].quality}`}, { quoted: m })                
@@ -7308,7 +7308,7 @@ anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 ┃⬤${prefix}ramaljodohbali
 ┗━━━━━━━━━━━━━⦿
 
-©️𝗭𝗜𝗠 𝗕𝗢𝗧 𝗜𝗡𝗖
+©️ ZxynnBotz
 `
 let btn = [{
           urlButton: {
@@ -7318,7 +7318,7 @@ let btn = [{
                             }, {
           urlButton: {
                   displayText: 'GITHUB',
-                  url: 'https://github.com/zim-bot/zimbot-v3'
+                  url: 'https://github.com/HamzBotzzzzz'
           }
                             }, {
           quickReplyButton: {
@@ -7348,7 +7348,7 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://www.youtube.com/c/DRIPSOFC'
+url: 'https://www.youtube.com/c/Hamz9999+'
 }
 }, {
 urlButton: {
@@ -7496,7 +7496,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
 ┃━━━━━━━━━━━━━━━━━━┃
 ┃                  ᴢɪᴍʙᴏᴛɪɴᴄ
 ╰━━━━━━━━━━━━━━━━━━╯`,
-       footer: `ZIM BOT INC`,
+       footer: `ZxynnBotz`,
        title: `*LIST MENU*`,
        jpegThumbnail: buffer,
        buttonText: "CLICK HERE",
